@@ -7,7 +7,7 @@
 	    <meta property="og:title" content="Portfolio AgustínS" />
     <meta property="og:type" content="website" />
     <meta property="og:image"              content="images/pic.jfif" />
-    <meta property="og:url" content="https://agustinsantos1.github.io/#portfolio" />
+    <meta property="og:url" content="https://agustinsantos1.github.io/portfolio/" />
     <!-- font awesome cdn link  -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 	   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
