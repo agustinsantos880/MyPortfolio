@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Portfolio AgustínS</title>
+        <title>Portfolio Agustín Santos</title>
 	    <meta property="og:title" content="Portfolio AgustínS" />
     <meta property="og:type" content="website" />
     <meta property="og:image"              content="https://www.programmerszone.ae/wp-content/uploads/2021/10/programming-evolution.jpg" />
@@ -72,7 +72,7 @@
         <h3> <span> Qualification : </span> BE </h3>
         <h3> <span> Post : </span> IT Consultant </h3>
         <h3> <span> Language : </span> English (Advanced) and Spanish (Native)</h3>
-        <a href="images/CV-Mauro-Santos.pdf" download="CV- Agustín Santos"><button class="btn"> Download CV <i class="fas fa-download"></i> </button></a>
+        <a href="images/CV- Agustín Santos.pdf" download="CV- Agustín Santos"><button class="btn"> Download CV <i class="fas fa-download"></i> </button></a>
     </div>
 
     <div class="counter">
